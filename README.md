@@ -33,3 +33,6 @@ GameFolder/
 
 - Unity (2021.x ou superior)
 - Sistema com suporte a 2D Physics
+
+- ![image](https://github.com/user-attachments/assets/0311134f-2e6f-460a-8578-fa4926ed277f)
+
