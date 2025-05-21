@@ -25,13 +25,13 @@ GameFolder/
 
 1. Clone o repositório:  
    `git clone https://github.com/seuusuario/nomedoprojeto.git`
-2. Abra o projeto no **Unity** (versão recomendada: `2021.x` ou superior).
+2. Abra o projeto no **Unity** (versão recomendada: `6000.1.2f1` ou superior).
 3. Execute a cena principal (adicione uma se necessário).
 4. Pressione ▶️ para jogar!
 
 ## 📦 Requisitos
 
-- Unity (2021.x ou superior)
+- Unity (6000.1.2f1 ou superior)
 - Sistema com suporte a 2D Physics
 
 - ![image](https://github.com/user-attachments/assets/0311134f-2e6f-460a-8578-fa4926ed277f)
